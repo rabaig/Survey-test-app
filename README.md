@@ -4,7 +4,7 @@ Node used 14.15.0
 
 # CSV file format
 
-"<question>","<option1>","<option2>","<option3>"
+"question","option1","option2","option3"
 
 # SurveyTestApp
 
