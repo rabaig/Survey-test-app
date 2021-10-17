@@ -1,3 +1,11 @@
+# node
+
+Node used 14.15.0
+
+# CSV file format
+
+"<question>","<option1>","<option2>","<option3>"
+
 # SurveyTestApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
